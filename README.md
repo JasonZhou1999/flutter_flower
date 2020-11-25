@@ -22,10 +22,6 @@
 
 
 
-# 安卓请扫码下载体验，ios没有证书，无法下载。密码123
-
-![](https://github.com/Darren-chenchen/flutter_flowermusic/blob/provider/screenShots/QRCode_258.png?raw=true)
-
 
 # 项目结构
 
@@ -129,13 +125,4 @@ void main() async {
   runApp(MyApp());
 }
 ```
-
-# 最后
-
-### 1、建议大家把重点放在项目架构的优化上面(mvvm)。
-
-### 2、该项目只供学习交流使用，严禁用于商业用途.....
-
-### 有任何问题或者需要服务器端代码可进群：625200323
-![()](https://github.com/Darren-chenchen/flutter_flowermusic/blob/provider/screenShots/IMG_6994(20191205-090511).JPG?raw=true)
 
